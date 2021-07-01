@@ -1,0 +1,2 @@
+rootProject.name = "appLock"
+include ':app'
