@@ -1,9 +1,10 @@
 package com.project250.applock;
 
 import androidx.appcompat.app.AppCompatActivity;
+
 import android.os.Bundle;
 
-public class pattern_lock extends AppCompatActivity {
+public class Pattern_Lock extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
