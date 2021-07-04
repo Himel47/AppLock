@@ -2,7 +2,9 @@
 <project version="4">
   <component name="AndroidLayouts">
     <shared>
-      <config />
+      <config>
+        <device id="pixel_3_xl" />
+      </config>
     </shared>
   </component>
   <component name="AutoImportSettings">
@@ -27,7 +29,60 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c9c4826c-ec26-4448-ac15-5c7b87c1e4ad" name="Default Changelist" comment="" />
+    <list default="true" id="f93b6c57-8642-47ba-86d5-3593a03e934a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/cloud-computing.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_cloud_computing.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/padlock.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_pattern_lock.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/content_pattern_lock.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appLock/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appLock/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appLock/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appLock/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appLock/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appLock/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appLock/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appLock/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appLock/app/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/app/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appLock/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appLock/app/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/app/proguard-rules.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appLock/app/src/androidTest/java/com/project250/applock/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/project250/applock/ExampleInstrumentedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appLock/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appLock/app/src/main/java/com/project250/applock/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/project250/applock/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appLock/app/src/main/java/com/project250/applock/pattern_lock.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/project250/applock/Pattern_Lock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appLock/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appLock/app/src/main/res/drawable/ic_baseline_lock_24.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_baseline_lock_24.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appLock/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appLock/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appLock/app/src/main/res/layout/activity_pattern_lock.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appLock/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appLock/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appLock/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appLock/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appLock/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appLock/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appLock/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appLock/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appLock/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appLock/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appLock/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appLock/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appLock/app/src/main/res/values-night/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appLock/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appLock/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appLock/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appLock/app/src/main/res/values/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appLock/app/src/test/java/com/project250/applock/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/com/project250/applock/ExampleUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appLock/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appLock/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appLock/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appLock/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appLock/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appLock/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appLock/settings.gradle" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,18 +94,29 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="valueResourceFile" />
+        <option value="layoutResourceFile" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1ud1jxhIzkAPBlaO4nOGzXR5OHA" />
+  <component name="ProjectId" id="1uiyWAqgCPUnBoa5iue0fQyaEyN" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="ignore.virus.scanning.warn.message" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="android.template.-1680484548">
+      <recent name="com.project250.applock" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
@@ -122,11 +188,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c9c4826c-ec26-4448-ac15-5c7b87c1e4ad" name="Default Changelist" comment="" />
-      <created>1624980792316</created>
+      <changelist id="f93b6c57-8642-47ba-86d5-3593a03e934a" name="Default Changelist" comment="" />
+      <created>1625162733060</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1624980792316</updated>
+      <updated>1625162733060</updated>
     </task>
     <servers />
   </component>
@@ -140,5 +206,39 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="263" y="154" key="AndroidCreateResourceFileDialog" timestamp="1625329834346">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="263" y="154" key="AndroidCreateResourceFileDialog/0.30.1366.738@0.30.1366.738" timestamp="1625329834346" />
+    <state x="527" y="189" key="AndroidCreateXmlResourceDialog" timestamp="1625395030341">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="527" y="189" key="AndroidCreateXmlResourceDialog/0.30.1366.738@0.30.1366.738" timestamp="1625395030341" />
+    <state x="463" y="154" key="FileChooserDialogImpl" timestamp="1625327000319">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="463" y="154" key="FileChooserDialogImpl/0.30.1366.738@0.30.1366.738" timestamp="1625327000319" />
+    <state width="1323" height="182" key="GridCell.Tab.0.bottom" timestamp="1625324130812">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.bottom/0.30.1366.738@0.30.1366.738" timestamp="1625324130812" />
+    <state width="1323" height="182" key="GridCell.Tab.0.center" timestamp="1625324130812">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.center/0.30.1366.738@0.30.1366.738" timestamp="1625324130812" />
+    <state width="1323" height="182" key="GridCell.Tab.0.left" timestamp="1625324130811">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.left/0.30.1366.738@0.30.1366.738" timestamp="1625324130811" />
+    <state width="1323" height="182" key="GridCell.Tab.0.right" timestamp="1625324130812">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.right/0.30.1366.738@0.30.1366.738" timestamp="1625324130812" />
+    <state x="275" y="132" key="Vcs.Push.Dialog.v2" timestamp="1625395174856">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="275" y="132" key="Vcs.Push.Dialog.v2/0.30.1366.738@0.30.1366.738" timestamp="1625395174856" />
   </component>
 </project>
