@@ -128,6 +128,7 @@ public class Pattern_Lock extends AppCompatActivity {
             textView.setText(Mpassword.FIRST_USE);
         }
         else {
+            finish();
             super.onBackPressed();
         }
     }

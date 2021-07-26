@@ -5,12 +5,12 @@ import android.content.Context;
 import io.paperdb.Paper;
 
 public class password {
-    private String PASS_KEY = "PASSWORD LEY";
+    private String PASS_KEY = "PASSWORD KEY";
     public String PATTERN = "PATTERN SET";
     public String CONFIRM = "Draw the pattern again to confirm";
     public String INCORRECT = "Please try again";
     public String FIRST_USE = "Draw pattern to Unlock";
-    public String SCHEMA = "You must connect at least 4 dots";
+    public String SCHEMA = "You must connect at least 4 dots !";
     public boolean isFirst = true;
 
     public password(Context context){
